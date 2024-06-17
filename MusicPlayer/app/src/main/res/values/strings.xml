@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="todo">Todo</string>
+    <string name="play_button_desc">Play music</string>
+    <string name="pause_button_desc">Pause music</string>
+    <string name="stop_button_desc">Stop music</string>
+</resources>
